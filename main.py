@@ -12,11 +12,11 @@ import matplotlib
 
 
 # set working directory
-PATH = '/Users/jones/Desktop/FS21/Data Analytics II/Self-Study/My_selfstudy/Jonas_Huwyler_16-610-958_SelfStudy'
+PATH = ''
 sys.path.append(PATH)
 
 # load own functions
-import SelfStudy_functions as pc
+import functions as pc
 
 # define the name for the output file
 OUTPUT_NAME = 'PC_output'
